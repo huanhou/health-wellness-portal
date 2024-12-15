@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/health-wellness-portal/static/css/main.67787158.css",
+    "main.js": "/health-wellness-portal/static/js/main.13350fad.js",
+    "static/media/first-image.jpg": "/health-wellness-portal/static/media/first-image.b05a80dd61cdf2ff9334.jpg",
+    "static/media/hero.jpg": "/health-wellness-portal/static/media/hero.345e18f690ebdaaf1f29.jpg",
+    "static/media/mental.jpg": "/health-wellness-portal/static/media/mental.9977874e826a8b40a74b.jpg",
+    "index.html": "/health-wellness-portal/index.html",
+    "main.67787158.css.map": "/health-wellness-portal/static/css/main.67787158.css.map",
+    "main.13350fad.js.map": "/health-wellness-portal/static/js/main.13350fad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67787158.css",
+    "static/js/main.13350fad.js"
+  ]
+}
