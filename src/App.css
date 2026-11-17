@@ -115,7 +115,7 @@ body {
   justify-content: space-between;
   padding: 4rem 2rem;
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)),
-    url("/health-wellness-portal/first-image.jpg") no-repeat center/cover;
+    url("./assets/first-image.jpg") no-repeat center/cover;
   color: white;
 }
 
@@ -547,7 +547,7 @@ body {
 
 .wellness-image {
   flex: 1;
-  background-image: url("/health-wellness-portal/mental.jpg"); /* Replace with actual path */
+  background-image: url("./assets/mental.jpg"); /* Replace with actual path */
   background-size: cover;
   background-position: center;
   height: 300px;
@@ -1712,7 +1712,7 @@ button:active {
 
 /* Hero Section */
 .hero-section {
-  background: url("/health-wellness-portal/hero.jpg") no-repeat center
+  background: url("./assets/hero.jpg") no-repeat center
     center/cover;
   height: 400px;
   display: flex;
@@ -2863,4 +2863,9 @@ button[type="submit"]:hover {
     width: 100%;
     text-align: center;
   }
+}
+
+/* Keep menu items on one line */
+.navbar .nav-list a {
+  white-space: nowrap;
 }

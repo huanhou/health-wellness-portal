@@ -13,7 +13,7 @@ function Footer() {
         <h4>Quick Links</h4>
         <ul className="footer-links">
           <li>
-            <Link to="/fitnesstips">Fitness Tips</Link>
+            <Link to="/fitness-tips">Fitness Tips</Link>
           </li>
           <li>
             <Link to="/recipes">Healthy Recipes</Link>
